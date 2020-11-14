@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="lv_cart" type="id" />
+    <item name="menu_clear" type="id" />
+    <item name="ll_channel" type="id" />
+</resources>
